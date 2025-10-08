@@ -7,7 +7,7 @@ class Duoclass {
     double d1 = 6.7;     // Primitive data type (double)
     char ch = 'a';       // Primitive data type (char)
     long[] la = {8, 9};  // Array object
-    String s1 = "Hari";  // String class object
+    String s1 = "Jenish";  // String class object
 }
 
 // Main class containing main() method
@@ -24,6 +24,6 @@ public class Test01_class {
         System.out.println(e1.ch);     // Output: a
         System.out.println(e1.la[0]);  // Output: 8
         System.out.println(e1.la[1]);  // Output: 9
-        System.out.println(e1.s1);     // Output: Hari
+        System.out.println(e1.s1);     // Output: Jenish
     }
 }
