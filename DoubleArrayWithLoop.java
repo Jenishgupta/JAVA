@@ -9,7 +9,7 @@ class DoubleArrayWithLoop {
             System.out.println(numbers[i]);
         }
 		
-		//  Approach 2 - Using enhanced for loop (for-each loop)
+		//  Approach 2 - Using enhanced for loop (for-each loop) --
         System.out.println("\nThe numbers are:");
         for (double number : numbers) {
             System.out.println(number);
