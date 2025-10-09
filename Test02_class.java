@@ -31,7 +31,7 @@ public class Test02_class {
 		System.out.println("----------------");
         System.out.println("character1:-" +e1.c1);
 		System.out.println("character2:-" +e1.c2);
-		System.out.println("character2:-" +e1.c3);
+		System.out.println("character3:-" +e1.c3);
 		System.out.println("----------------");
 		
 		for (long value : e1.la) {
