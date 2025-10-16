@@ -1,3 +1,10 @@
+/* Develop a program to read student values from command line
+store those values in the Student class object, and read
+those values from Student object print on console using Scanner and two class
+Must read 
+   sno, sname, course, fee, email, mobile, 
+   gender and studyingStatus */
+
 import java.util.Scanner;
 
 class Student {
